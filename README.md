@@ -1,4 +1,4 @@
-ILHAM ARI PRASTYO 5311421014
+Kelompok 2
 
 Terdapat 2 program GA, yang file bernama GA_PCOS.ipynb itu dibuat dengan menggunakan colab sedangkan yang GeneticAlgorithm.py itu menggunakan VSCode. kedua program memiliki inti yang sama tapi memiliki struktur program yang berbeda. Saya sarankan yang GeneticAlgorithm.py
 
