@@ -1,3 +1,5 @@
+ILHAM ARI PRASTYO 5311421014
+
 Terdapat 2 program GA, yang file bernama GA_PCOS.ipynb itu dibuat dengan menggunakan colab sedangkan yang GeneticAlgorithm.py itu menggunakan VSCode. kedua program memiliki inti yang sama tapi memiliki struktur program yang berbeda. Saya sarankan yang GeneticAlgorithm.py
 
 Dalam program ini, Algoritma Genetika (GA) digunakan untuk pemilihan fitur guna mengoptimalkan kinerja RandomForestClassifier untuk memprediksi label PCOS (Sindrom Ovarium Polikistik). 
